@@ -149,6 +149,9 @@ In the MLLM community, we've developed methods for detecting, evaluating, and mi
     - [![Static Badge](https://img.shields.io/badge/2403.13513-red?logo=arxiv)](https://arxiv.org/abs/2403.13513) [![](https://img.shields.io/badge/Counterfactual--Inception-black?logo=github)](https://github.com/IVY-LVLM/Counterfactual-Inception) 
 30. Mitigating Dialogue Hallucination for Large Multi-modal Models via Adversarial Instruction Tuning, (Park et al.)
     - [![Static Badge](https://img.shields.io/badge/2403.10492-red?logo=arxiv)](https://arxiv.org/abs/2403.10492) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
+31. **Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models**, (Zou et al.)
+    - [![Static Badge](https://img.shields.io/badge/2403.10492-red?logo=arxiv)](https://arxiv.org/abs/2410.03577) [![](https://img.shields.io/badge/HADPO-black?logo=github)](https://github.com/1zhou-Wang/MemVR)
+
 
     
 
